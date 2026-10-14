@@ -1,6 +1,6 @@
 # GE Peak Performance website
 
-Static site (HTML, CSS and a little JavaScript, no build step). Personal training, football coaching and performance wear in Birmingham.
+Static site (HTML, CSS and a little JavaScript, no build step). Performance wear (men, women and modest sets), personal training and football coaching in Birmingham.
 
 ## Files
 
@@ -56,6 +56,6 @@ Pick one route. If you use Route A, you can delete the `.github` folder.
 
 ## Editing
 
-- Prices, products, sizes and colours are in the `P` list near the bottom of `index.html`.
-- Phone and WhatsApp number: search for `447539042107`.
+- Products, prices and colours are in the `P` list near the bottom of `index.html`. Sizes are in the `S` list.
+- WhatsApp number: search for `447407808343`.
 - Replace photos by keeping the same file names inside `img/`.
